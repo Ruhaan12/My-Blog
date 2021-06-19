@@ -1,0 +1,32 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.travel_div{
+border:2 px solid silver;
+    padding-left:0 px;
+    padding-right:0 px;
+    float:none;
+}
+.travel_div img{
+    width:100%;
+}
+.glyphicon glyphicon-star{
+    color:darkgoldenrod;
+}
+.book{
+    cursor:pointer;
+}
